@@ -1,0 +1,1 @@
+const service_y4vx = <T>(args: T): T => { return args; };
